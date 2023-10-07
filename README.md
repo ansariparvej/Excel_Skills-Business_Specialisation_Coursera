@@ -1,4 +1,3 @@
-# Excel Skills: Business Specialisation (Coursera)
 -------------------------------------------------------------------------------------------
 
 <p align="center"><img width="auto" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~excel/XDP~SPECIALIZATION!~excel.jpeg" /></p>
