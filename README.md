@@ -1,4 +1,4 @@
-
+# Excel Skills: Business Specialisation (Coursera)
 -------------------------------------------------------------------------------------------
 
 <p align="center"><img width="auto" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~excel/XDP~SPECIALIZATION!~excel.jpeg" /></p>
@@ -28,9 +28,9 @@
 
 ## About this Specialization
 
-This specialization is intended for anyone who seeks to develop one of the most critical and fundamental digital skills today. Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. In the United States alone, millions of job advertisements requiring Excel skills are posted every day. Research by Burning Glass Technologies and Capital One shows that digital skills lead to higher income and better employment opportunities. At a time when digital skills jobs are growing much faster than non-digital jobs, completing this specialization will position you way ahead of others.
+- This specialization is intended for anyone who seeks to develop one of the most critical and fundamental digital skills today. Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. In the United States alone, millions of job advertisements requiring Excel skills are posted every day. Research by Burning Glass Technologies and Capital One shows that digital skills lead to higher income and better employment opportunities. At a time when digital skills jobs are growing much faster than non-digital jobs, completing this specialization will position you way ahead of others.
 
-In this Specialization, learners develop advanced Excel Skills for Business.  Upon completing the four courses in this Specialization, learners can design sophisticated spreadsheets, including professional dashboards, and perform complex calculations using advanced Excel features and techniques. Learners have acquired the skills to manage large datasets efficiently, extract meaningful information from datasets, present data and extract information effectively. In addition, learners have mastered the skills needed to validate data and prevent errors in spreadsheets, create automation, apply advanced formulas and conditional logic to help make decisions and create spreadsheets that help forecast and model data.
+- In this Specialization, learners develop advanced Excel Skills for Business.  Upon completing the four courses in this Specialization, learners can design sophisticated spreadsheets, including professional dashboards, and perform complex calculations using advanced Excel features and techniques. Learners have acquired the skills to manage large datasets efficiently, extract meaningful information from datasets, present data and extract information effectively. In addition, learners have mastered the skills needed to validate data and prevent errors in spreadsheets, create automation, apply advanced formulas and conditional logic to help make decisions and create spreadsheets that help forecast and model data.
 
 ---
 
@@ -61,7 +61,7 @@ The best way to learn Excel is to use Excel. In this course, learners will solve
 
 Spreadsheet software is one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. At a time when digital skills jobs are growing much faster than non-digital jobs, make sure to position yourself ahead of the rest by adding Excel skills to your employment portfolio.
 
-* [Excel Skills for Business: Essentials](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-1-Excel-Skills-for-Business-Essentials)
+* [Excel Skills for Business: Essentials](https://github.com/ansariparvej/Excel_Skills-Business_Specialisation_Coursera/blob/main/Certificates/1.%20Excel%20Skills%20for%20Business%20%20Essentials.pdf)
 
 ### COURSE 2
 ### Excel Skills for Business: Intermediate - I
@@ -72,7 +72,7 @@ In this second course of our Excel specialization Excel Skills for Business you 
 
 Once again, we have brought together a great teaching team that will be with you every step of the way. Prashan and Nicky will guide you through each week (and I am even going to make a guest appearance in Week 5 to help you learn about my favourite tool in Excel - shh, no spoilers!). Work through each new challenge step-by-step and in no time you will surprise yourself by how far you have come. This time around, we are going to follow Uma's trials and tribulations as she is trying to find her feet in a new position in the fictitious company PushPin. For those of you who have done the Essentials course, you will already be familiar with the company. Working through her challenges which are all too common ones that we encounter everyday, will help you to more easily relate to the skills and techniques learned in each week and apply them to familiar and new contexts.
 
-* [Excel Skills for Business: Intermediate - I](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-2-Excel-Skills-for-Business-Intermediate-I)
+* [Excel Skills for Business: Intermediate - I](https://github.com/ansariparvej/Excel_Skills-Business_Specialisation_Coursera/blob/main/Certificates/2.%20Excel%20Skills%20for%20Business%20%20Intermediate%20I.pdf)
 
 ### COURSE 3
 ### Excel Skills for Business: Intermediate - II
@@ -86,7 +86,7 @@ Create spreadsheets that help forecast and model data.
 
 Once again, we have brought together a great teaching team that will be with you every step of the way. Nicky, Prashan and myself will guide you through each week. As we are exploring these more advanced topics, we are following Alex who is an Excel consultant called in by businesses that experience issues with their spreadsheets.
 
-* [Excel Skills for Business: Intermediate - II](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-3-Excel-Skills-for-Business-Intermediate-II)
+* [Excel Skills for Business: Intermediate - II](https://github.com/ansariparvej/Excel_Skills-Business_Specialisation_Coursera/blob/main/Certificates/3.%20Excel%20Skills%20for%20Business%20%20Intermediate%20II.pdf)
 
 ### COURSE 4
 ### Excel Skills for Business: Advanced
@@ -95,19 +95,9 @@ Spreadsheet software remains one of the most ubiquitous pieces of software used 
 
 In this last course of our Specialization Excel Skills for Business you will build on the strong foundations of the first three courses: Essentials, Intermediate I + II.  In the Advanced course, we will prepare you to become a power user of Excel - this is your last step before specializing at a professional level. The topics we have prepared will challenge you as you learn how to use advanced formula techniques and sophisticated lookups. You will clean and prepare data for analysis, and learn how to work with dates and financial functions. An in-depth look at spreadsheet design and documentation will prepare you for our big finale, where you will learn how to build professional dashboards in Excel.
 
-* [Excel Skills for Business: Advanced](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-4-Excel-Skills-for-Business-Advanced)
+* [Excel Skills for Business: Advanced](https://github.com/ansariparvej/Excel_Skills-Business_Specialisation_Coursera/blob/main/Certificates/4.%20Excel%20Skills%20for%20Business%20%20Advanced.pdf)
 
 -------------------------------------------------------------------------------------------------------------
-
-## Certificate
-
-1. [Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/897HC2Z74LFW)
-2. [Excel Skills for Business: Intermediate - I](https://www.coursera.org/account/accomplishments/verify/ZBP5B65WTJCR)
-3. [Excel Skills for Business: Intermediate - II](https://www.coursera.org/account/accomplishments/verify/W5ZNBZT52DME)
-4. [Excel Skills for Business: Advanced](https://www.coursera.org/account/accomplishments/verify/M2URRAJ8TCGR)
-5. [Excel Skill for Business Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/SY4QD6RK62TQ)
-
---------------------------------------------------------------------------------------------------------------
 
 ## References
 1. [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials?specialization=excel)
